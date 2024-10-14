@@ -10,11 +10,11 @@ namespace Bdb.Curso.EntityFrameworkCore.Mapping
 
         public MappingProfile()
         {
-            CreateMap<User, UserDTO>().ReverseMap();
+            CreateMap<User, UserDto>().ReverseMap();
 
             CreateMap<User, CreateUserInput>().ReverseMap();
 
-            CreateMap<CreateUserInput, UserDTO>().ReverseMap();
+            CreateMap<CreateUserInput, UserDto>().ReverseMap();
 
           //  CreateMap<ProductMovRequest, ProductMovRequestCommand>().ReverseMap();
 

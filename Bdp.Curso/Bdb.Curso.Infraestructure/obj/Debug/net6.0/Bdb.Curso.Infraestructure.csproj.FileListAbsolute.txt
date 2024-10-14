@@ -43,3 +43,19 @@ D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\D
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\refint\Bdb.Curso.Infraestructure.dll
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\ref\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.deps.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.AssemblyReference.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfoInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfo.cs
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.CoreCompileInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.sourcelink.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curs.A07C8293.Up2Date
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\refint\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\ref\Bdb.Curso.Infraestructure.dll

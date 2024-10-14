@@ -16,14 +16,14 @@ namespace Bdb.Curso.Application.Shared
         // logout
         // etc
 
-        Task<UserDTO> Login(LoginModel login);
+        Task<UserDto> Login(LoginModel login);
 
          
-        Task<UserDTO> CreateUser(CreateUserInput input);
+        Task<UserDto> CreateUser(CreateUserInput input);
 
         Task<bool> UpdateUser(int id, CreateUserInput input);
 
-        Task<UserDTO> GetUserByUsername(string username);
+        Task<UserDto> GetUserByUsername(string username);
 
 
 

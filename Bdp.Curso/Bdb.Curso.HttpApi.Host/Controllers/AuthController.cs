@@ -38,15 +38,15 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         {
             var user = await _userAppServices.Login(login);
 
-            if (user == null)
+            if (string.IsNullOrEmpty( user.UserName ))
                 return Unauthorized();
 
             // Generar el Access Token y el Refresh Token
          
-            var tokenResponse = await _jw.GenerateToken(user, login.ClientType);
+            var tokenResponse = await _jw.GenerateToken(user, login.ClientType ?? string.Empty);
 
-            // Crear el objeto de respuesta usando la DTO
-            var response = new AuthResponseDTO
+            // Crear el objeto de respuesta usando la Dto
+            var response = new AuthResponseDto
             {
                 IsSuccess = true,
                 AccessToken = tokenResponse.AccessToken,
@@ -143,10 +143,10 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
  
         [HttpPost("create")]
-        public async Task<ActionResult<UserDTO>> PostUser(CreateUserInput user)
+        public async Task<ActionResult<UserDto>> PostUser(CreateUserInput user)
         {
 
-            UserDTO ret = new();
+            UserDto ret = new();
 
 
             if (user == null) return BadRequest();

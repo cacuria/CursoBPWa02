@@ -28,7 +28,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         // GET: api/Users
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<UserDTO>>> GetUsers(
+        public async Task<ActionResult<IEnumerable<UserDto>>> GetUsers(
             [FromQuery] string searchTerm,
             [FromQuery] int pageNumber = 1)
         {
@@ -52,10 +52,10 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
                                 .ToListAsync();
                                                           
 
-            //conversion entre la entidad y la dto.... => mapper
+            //conversion entre la entidad y la Dto.... => mapper
             // Proyectar la entidad a el resultado
 
-            var salida = _mapper.Map<IEnumerable<UserDTO>>(lista);
+            var salida = _mapper.Map<IEnumerable<UserDto>>(lista);
                               
 
             return Ok(salida);

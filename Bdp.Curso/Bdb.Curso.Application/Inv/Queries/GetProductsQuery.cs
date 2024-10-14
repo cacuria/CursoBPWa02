@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace Bdb.Curso.Application.Inv.Queries
 {
-    public class GetProductsQuery : IRequest<List<ProductDTO>>
+    public class GetProductsQuery : IRequest<List<ProductDto>>
     {
-        public string SearchTerm { get; set; }
-        public int PageNumber { get; set; }
+        public string? SearchTerm { get; set; }
+        public int? PageNumber { get; set; }
 
     }
 }

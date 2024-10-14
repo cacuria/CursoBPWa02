@@ -34,14 +34,14 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         [HttpGet("lista-productos")]
 
        // [CustomAuthorize(AppPermissions.Pages_Query_Products)]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts([FromQuery] 
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetProducts([FromQuery] 
         GetProductRequest input)
         {
             //Manejo del caching
             string cacheKey = "GetProducts";
-            var dataChache = _cacheService.Get<List<ProductDTO>>(cacheKey);
+            var dataChache = _cacheService.Get<List<ProductDto>>(cacheKey);
 
-            List<ProductDTO> data;
+            List<ProductDto> data;
 
             if(dataChache != null)
             {
@@ -73,14 +73,14 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         //[CustomAuthorize(AppPermissions.Pages_Query_Products)]
         //[Authorize("Usuarios")]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts10([FromQuery]
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetProducts10([FromQuery]
         GetProductRequest input)
         {
             //Manejo del caching
             string cacheKey = "GetProducts";
-            var dataChache = _cacheService.Get<List<ProductDTO>>(cacheKey);
+            var dataChache = _cacheService.Get<List<ProductDto>>(cacheKey);
 
-            List<ProductDTO> data;
+            List<ProductDto> data;
 
             if (dataChache != null)
             {

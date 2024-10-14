@@ -67,3 +67,27 @@ D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application\obj\Debug
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\refint\Bdb.Curso.Application.dll
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.pdb
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\ref\Bdb.Curso.Application.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Application.deps.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Application.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.csproj.AssemblyReference.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.AssemblyInfoInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.AssemblyInfo.cs
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.csproj.CoreCompileInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.sourcelink.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curs.5970DB32.Up2Date
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\refint\Bdb.Curso.Application.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application\obj\Debug\net6.0\ref\Bdb.Curso.Application.dll

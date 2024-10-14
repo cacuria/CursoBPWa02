@@ -56,7 +56,7 @@ namespace Bdb.Curso.Application.Inv.Commands
                 //product balance
 
                 //buscarlo
-                var prodbalanceItem = await _productBalanceRepository.Where(p => p.ProductId == request.ProductId).FirstOrDefaultAsync();
+                var prodbalanceItem = await _productBalanceRepository.Where(p => p.ProductId == request.ProductId).FirstOrDefaultAsync(cancellationToken);
 
 
 
@@ -109,7 +109,7 @@ namespace Bdb.Curso.Application.Inv.Commands
 
                 result = true;
             }
-            catch (Exception eex)
+            catch  
             {
                 await _unitOfWork.RollbackTransactionAsync();
             }

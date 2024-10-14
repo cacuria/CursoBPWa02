@@ -61,3 +61,25 @@ D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\o
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.sourcelink.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curs.0DF17D57.Up2Date
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll

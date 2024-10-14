@@ -35,14 +35,14 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         [HttpGet("lista-productos")]
 
        // [CustomAuthorize(AppPermissions.Pages_Query_Products)]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts([FromQuery] 
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetProducts([FromQuery] 
         GetProductRequest input)
         {
             //Manejo del caching
             string cacheKey = "GetProducts";
-            var dataChache = _cacheService.Get<List<ProductDTO>>(cacheKey);
+            var dataChache = _cacheService.Get<List<ProductDto>>(cacheKey);
 
-            List<ProductDTO> data;
+            List<ProductDto> data;
 
             if(dataChache != null)
             {
@@ -56,8 +56,8 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
             }
              //complementar HATEOAS   
-            var resourxeList = new List<ProductHResourceDTO>();
-            ProductHResourceDTO productHResource;
+            var resourxeList = new List<ProductHResourceDto>();
+            ProductHResourceDto productHResource;
             foreach (var item in data)
             {
                 var itemHATEOAS = createProductResource(item);
@@ -76,11 +76,11 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         }
 
-        private ProductHResourceDTO createProductResource(ProductDTO item)
+        private ProductHResourceDto createProductResource(ProductDto item)
         {
             var links = GetProductsLinks(item.Id);
 
-            return new ProductHResourceDTO
+            return new ProductHResourceDto
             {
                 Id = item.Id,
                 CategoryName = item.CategoryName,
@@ -90,10 +90,10 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
             };
         }
 
-        private List<LinkedResourceDTO> GetProductsLinks(int id)
+        private List<LinkedResourceDto> GetProductsLinks(int id)
         {
-             var links = new List<LinkedResourceDTO> { 
-             new LinkedResourceDTO
+             var links = new List<LinkedResourceDto> { 
+             new LinkedResourceDto
              {
                  href = _linkGenerator.GetPathByAction(action:"GetProductById",controller:"OnlineOrderHyper",values:new {id}),
              }
@@ -115,14 +115,14 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         //[CustomAuthorize(AppPermissions.Pages_Query_Products)]
         //[Authorize("Usuarios")]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts10([FromQuery]
+        public async Task<ActionResult<IEnumerable<ProductDto>>> GetProducts10([FromQuery]
         GetProductRequest input)
         {
             //Manejo del caching
             string cacheKey = "GetProducts";
-            var dataChache = _cacheService.Get<List<ProductDTO>>(cacheKey);
+            var dataChache = _cacheService.Get<List<ProductDto>>(cacheKey);
 
-            List<ProductDTO> data;
+            List<ProductDto> data;
 
             if (dataChache != null)
             {

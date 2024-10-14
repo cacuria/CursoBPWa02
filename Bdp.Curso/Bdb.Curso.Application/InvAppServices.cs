@@ -27,7 +27,7 @@ namespace Bdb.Curso.Application
             _mediator = mediator;          
         }
                                         
-        public async Task<List<ProductDTO>> GetProducts(string searchTerm, int pageNumber = 1)
+        public async Task<List<ProductDto>> GetProducts(string searchTerm, int pageNumber = 1)
         {    
             var query = new GetProductsQuery { SearchTerm = searchTerm, PageNumber = pageNumber };
             return await _mediator.Send(query);

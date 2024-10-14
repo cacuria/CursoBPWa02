@@ -1,8 +1,8 @@
 ﻿namespace Bdb.Curso.Application.Shared.Dtos
 {
-    public class TokenResponseDTO
+    public class TokenResponseDto
     {
-        public string AccessToken { get; set; }
-        public RefreshTokenDTO RefreshToken { get; set; }
+        public string? AccessToken { get; set; }
+        public RefreshTokenDto? RefreshToken { get; set; }
     }
 }

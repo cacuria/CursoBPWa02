@@ -1,9 +1,9 @@
 ﻿namespace Bdb.Curso.Application.Shared.Dtos
 {
-    public class LinkedResourceDTO
+    public class LinkedResourceDto
     {
-        public string href { get; set; }
-        public string rel { get; set; }
-        public string metodo { get; set; }
+        public string? href { get; set; }
+        public string? rel { get; set; }
+        public string? metodo { get; set; }
     }
 }

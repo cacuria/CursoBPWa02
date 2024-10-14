@@ -31,3 +31,15 @@ D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application.Shared\ob
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
 D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.sourcelink.json
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Repositorios_GIT\CursoBPWa02\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
