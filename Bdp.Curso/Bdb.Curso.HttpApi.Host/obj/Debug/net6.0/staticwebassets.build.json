@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PJBLGx3U7L9BZEKeIpTsCBZSSO6kN3IU790srtuDWqQ=",
+  "Source": "Bdb.Curso.HttpApi.Host",
+  "BasePath": "_content/Bdb.Curso.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

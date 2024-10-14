@@ -1,0 +1,45 @@
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curs.A07C8293.Up2Date
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\refint\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\ref\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curs.A07C8293.Up2Date
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\refint\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp02\Dia07\Curso\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\ref\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.deps.json
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.AssemblyReference.cache
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfoInputs.cache
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.AssemblyInfo.cs
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.csproj.CoreCompileInputs.cache
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curs.A07C8293.Up2Date
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\refint\Bdb.Curso.Infraestructure.dll
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\FUENTESTFS2022\Capacitaciones\Dia 8\Bdp.Curso\Bdb.Curso.Infraestructure\obj\Debug\net6.0\ref\Bdb.Curso.Infraestructure.dll

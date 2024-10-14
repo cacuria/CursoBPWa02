@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bdb.Curso.HttpApi.Host.props" />
+</Project>
