@@ -2,7 +2,7 @@
 {
     public static class ResponseApiService
     {
-        public static BaseResponseModel Response(int statusCode, object Data = null, string message = null)
+        public static BaseResponseModel Response(int statusCode, object? Data = null, string? message = null)
         {
             bool succes = false;
 

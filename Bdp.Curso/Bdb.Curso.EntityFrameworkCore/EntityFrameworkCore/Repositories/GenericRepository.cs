@@ -22,7 +22,9 @@
 
         public async Task<T> GetByIdAsync(int id)
         {
-            return await _dbSet.FindAsync(id);
+            var result = await _dbSet.FindAsync(id);
+            return result ?? throw new InvalidCastException();
+            
         }
 
         public async Task AddAsync(T entity)
@@ -73,12 +75,12 @@
             return _dbSet.GroupBy(keySelector).Select(resultSelector);
         }
 
-        public async Task<int> CountAsync(Expression<Func<T, bool>> predicate = null)
+        public async Task<int> CountAsync(Expression<Func<T, bool>>? predicate = null)
         {
             return predicate == null ? await _dbSet.CountAsync() : await _dbSet.CountAsync(predicate);
         }
 
-        public async Task<bool> AnyAsync(Expression<Func<T, bool>> predicate = null)
+        public async Task<bool> AnyAsync(Expression<Func<T, bool>>? predicate = null)
         {
             return predicate == null ? await _dbSet.AnyAsync() : await _dbSet.AnyAsync(predicate);
         }
@@ -90,12 +92,15 @@
 
         public async Task<T> MaxAsync(Expression<Func<T, decimal>> selector)
         {
-            return await _dbSet.OrderByDescending(selector).FirstOrDefaultAsync();
+            
+            var result = await _dbSet.OrderByDescending(selector).FirstOrDefaultAsync();
+            return result ?? throw new InvalidCastException();
         }
 
         public async Task<T> MinAsync(Expression<Func<T, decimal>> selector)
         {
-            return await _dbSet.OrderBy(selector).FirstOrDefaultAsync();
+            var result= await _dbSet.OrderBy(selector).FirstOrDefaultAsync();
+            return result ?? throw new InvalidCastException();
         }
 
         public IQueryable<TResult> Select<TResult>(Expression<Func<T, TResult>> selector)
@@ -105,7 +110,11 @@
 
         public async Task<T> FirstOrDefaultAsync(Expression<Func<T, bool>> predicate, bool asNoTracking = true)
         {
+            if (predicate == null) throw new ArgumentNullException(nameof(predicate), "Predicate cannot be null.");
             var query = _dbSet.Where(predicate);
+              
+
+
             return asNoTracking ? await query.AsNoTracking().FirstOrDefaultAsync() : await query.FirstOrDefaultAsync();
         }
 

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\createuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\createuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6061EC4-A7BE-4FA3-85BF-0DA0B706CBCA}|Bdb.Curso.Application\\Bdb.Curso.Application.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application\\validator\\createuserinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6061EC4-A7BE-4FA3-85BF-0DA0B706CBCA}|Bdb.Curso.Application\\Bdb.Curso.Application.csproj|solutionrelative:bdb.curso.application\\validator\\createuserinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31A27E0-40B6-44F4-BA25-79614D66D893}|Bdb.Curso.EntityFrameworkCore\\Bdb.Curso.EntityFrameworkCore.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.entityframeworkcore\\entityframeworkcore\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31A27E0-40B6-44F4-BA25-79614D66D893}|Bdb.Curso.EntityFrameworkCore\\Bdb.Curso.EntityFrameworkCore.csproj|solutionrelative:bdb.curso.entityframeworkcore\\entityframeworkcore\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87336D35-24AE-4A22-A89E-216FB46A0AD3}|Bdb.Curso.HttpApi.Host\\Bdb.Curso.HttpApi.Host.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.httpapi.host\\authorization\\rolepermissionsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87336D35-24AE-4A22-A89E-216FB46A0AD3}|Bdb.Curso.HttpApi.Host\\Bdb.Curso.HttpApi.Host.csproj|solutionrelative:bdb.curso.httpapi.host\\authorization\\rolepermissionsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\twofactordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\sensitivesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\sensitivesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\createuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|solutionrelative:bdb.curso.application.shared\\dtos\\createuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45BD302-3431-4AF1-9DE4-172380146795}|Bdb.Curso.Application.Shared\\Bdb.Curso.Application.Shared.csproj|d:\\fuentestfs2022\\repositorios_git\\cursobpwa02\\bdp.curso\\bdb.curso.application.shared\\dtos\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,11 +178,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 178,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwHUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:36:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserInputValidator.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Validator\\CreateUserInputValidator.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application\\Validator\\CreateUserInputValidator.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Validator\\CreateUserInputValidator.cs",
+              "RelativeToolTip": "Bdb.Curso.Application\\Validator\\CreateUserInputValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:24:35.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RolePermissionsStore.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Authorization\\RolePermissionsStore.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Authorization\\RolePermissionsStore.cs",
@@ -187,45 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAswKkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:35:04.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserAppServices.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\UserAppServices.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.Application\\UserAppServices.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\UserAppServices.cs",
-              "RelativeToolTip": "Bdb.Curso.Application\\UserAppServices.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:30:19.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TwoFactorSettings.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
-              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:17:09.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "TwoFactorDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TwoFactorDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TwoFactorDto.cs",
@@ -237,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\appsettings.json",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\appsettings.json",
@@ -245,12 +241,11 @@
               "RelativeToolTip": "Bdb.Curso.HttpApi.Host\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-09T16:47:11.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:47:11.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "InvAppServices.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\InvAppServices.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\InvAppServices.cs",
@@ -258,12 +253,86 @@
               "RelativeToolTip": "Bdb.Curso.Application\\InvAppServices.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T15:44:24.052Z",
+              "WhenOpened": "2024-10-09T15:44:24.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserInput.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
+              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:12:24.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
+              "Title": "TwoFactorSettings.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
+              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\TwoFactorSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:17:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseApiService.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
+              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:15:55.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
+              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:16:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAppServices.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\UserAppServices.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.Application\\UserAppServices.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\UserAppServices.cs",
+              "RelativeToolTip": "Bdb.Curso.Application\\UserAppServices.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:30:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Bdb.Curso.HttpApi.Host\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswKkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:35:04.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Controllers\\WeatherForecastController.cs",
@@ -271,12 +340,11 @@
               "RelativeToolTip": "Bdb.Curso.HttpApi.Host\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:48:38.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T16:48:38.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\UserDto.cs",
@@ -288,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Core\\Entities\\Category.cs",
@@ -300,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "FluentValidationExtensions.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Validator\\FluentValidationExtensions.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\Validator\\FluentValidationExtensions.cs",
@@ -312,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductMovRequestCommandHandler.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Inv\\Commands\\ProductMovRequestCommandHandler.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\Inv\\Commands\\ProductMovRequestCommandHandler.cs",
@@ -324,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "GetProductsQuery.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Inv\\Queries\\GetProductsQuery.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\Inv\\Queries\\GetProductsQuery.cs",
@@ -336,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "GetProductsQueryHandler.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Inv\\Queries\\GetProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\Inv\\Queries\\GetProductsQueryHandler.cs",
@@ -348,19 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TokenResponseDto.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
-              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\TokenResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:16:43.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "TokenRequest.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\TokenRequest.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\TokenRequest.cs",
@@ -372,19 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ResponseApiService.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
-              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\ResponseApiService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:15:55.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "RefreshTokenDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\RefreshTokenDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\RefreshTokenDto.cs",
@@ -396,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ProductMovRequest.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ProductMovRequest.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ProductMovRequest.cs",
@@ -408,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\LoginModel.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\LoginModel.cs",
@@ -420,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "JwtSettingsValues.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\JwtSettingsValues.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\JwtSettingsValues.cs",
@@ -432,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "SensitiveSettings.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\SensitiveSettings.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\SensitiveSettings.cs",
@@ -444,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "GetProductRequest.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\GetProductRequest.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\GetProductRequest.cs",
@@ -456,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ErrorResponse.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ErrorResponse.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ErrorResponse.cs",
@@ -468,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "LinkedResourceDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\LinkedResourceDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\LinkedResourceDto.cs",
@@ -480,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ProductDto.cs",
@@ -492,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ProductHResourceDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\ProductHResourceDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\ProductHResourceDto.cs",
@@ -504,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\EmailSettings.cs",
@@ -516,19 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CreateUserInput.cs",
-              "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
-              "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
-              "ToolTip": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
-              "RelativeToolTip": "Bdb.Curso.Application.Shared\\Dtos\\CreateUserInput.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:12:24.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "BaseResponseModel.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\BaseResponseModel.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\BaseResponseModel.cs",
@@ -540,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application.Shared\\Dtos\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application.Shared\\Dtos\\AuthResponseDto.cs",
@@ -552,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "JwtTokenService.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Services\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Services\\JwtTokenService.cs",
@@ -564,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "OnlineOrderHyperController.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\OnlineOrderHyperController.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Controllers\\OnlineOrderHyperController.cs",
@@ -576,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Properties\\launchSettings.json",
@@ -588,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Program.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Program.cs",
@@ -600,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "OnlineOrderController.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Controllers\\OnlineOrderController.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Controllers\\OnlineOrderController.cs",
@@ -612,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "EmailSenderService.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Infraestructure\\EmailSenderService.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Infraestructure\\EmailSenderService.cs",
@@ -624,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ProductMovRequestCommand.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.Application\\Inv\\Commands\\ProductMovRequestCommand.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.Application\\Inv\\Commands\\ProductMovRequestCommand.cs",
@@ -636,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "DependencyInjectionService.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.HttpApi.Host\\Services\\DependencyInjectionService.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.HttpApi.Host\\Services\\DependencyInjectionService.cs",
@@ -648,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\FUENTESTFS2022\\Repositorios_GIT\\CursoBPWa02\\Bdp.Curso\\Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Bdb.Curso.EntityFrameworkCore\\EntityFrameworkCore\\Mapping\\MappingProfile.cs",
