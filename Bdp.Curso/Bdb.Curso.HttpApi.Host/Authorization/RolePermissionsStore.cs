@@ -3,7 +3,7 @@
     public static class RolePermissionsStore
     {
         //rol - sus items 
-        public static readonly Dictionary<string, List<string>> RolePermissions = new Dictionary<string, List<string>>
+        private static readonly Dictionary<string, List<string>> RolePermissions = new Dictionary<string, List<string>>
         {
          { "usuario",  new List<string> { AppPermissions.Pages_General_Data, AppPermissions.Pages_Query_Products } },
          { "operador", new List<string> { AppPermissions.Pages_General_Data } },

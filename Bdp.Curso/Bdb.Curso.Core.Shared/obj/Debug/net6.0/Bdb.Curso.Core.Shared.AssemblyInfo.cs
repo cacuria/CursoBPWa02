@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bdb.Curso.Core.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4d0e97e4df7e12033de593b0debaab7ea17504")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a01dc78c01559edf515f1468f96b6bffd0cfbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bdb.Curso.Core.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bdb.Curso.Core.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,13 @@
 ﻿using AutoMapper;
-using Bdb.Curso.Application;
 using Bdb.Curso.Application.Shared;
 using Bdb.Curso.Application.Shared.Dtos;
 using Bdb.Curso.Core.Entities;
-using Bdb.Curso.EntityFrameworkCore;
 using Bdb.Curso.HttpApi.Host.Authorization;
 using Bdb.Curso.HttpApi.Host.Services;
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
- 
+
 
 namespace Bdb.Curso.HttpApi.Host.Controllers
 {
@@ -21,14 +17,12 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
     {
 
         private readonly JwtTokenService _jw;
-        private readonly IMapper _mapper;
+     
 
         private readonly IUserAppServices _userAppServices;
-        public AuthController(JwtTokenService jw,  IMapper mapper, IUserAppServices userAppServices)
+        public AuthController(JwtTokenService jw,   IUserAppServices userAppServices)
         {
-            _jw = jw;
-                                                                
-            _mapper = mapper;
+            _jw = jw;             
             _userAppServices = userAppServices;
 
         }
@@ -38,11 +32,11 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         {
             var user = await _userAppServices.Login(login);
 
-            if (string.IsNullOrEmpty( user.UserName ))
+            if (string.IsNullOrEmpty(user.UserName))
                 return Unauthorized();
 
             // Generar el Access Token y el Refresh Token
-         
+
             var tokenResponse = await _jw.GenerateToken(user, login.ClientType ?? string.Empty);
 
             // Crear el objeto de respuesta usando la Dto
@@ -61,7 +55,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         }
 
         [HttpPost("validate-token")]
-        public async Task<IActionResult> ValidateToken([FromBody] TokenRequest request)
+        public    IActionResult ValidateToken([FromBody] TokenRequest request)
         {
             if (string.IsNullOrEmpty(request.Token))
             {
@@ -79,10 +73,9 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
                 var answer = false;
 
                 if (claimsPrincipal != null)
-                {
                     answer = true;
-                }
-            
+                else
+                    return BadRequest("Token is required.");
 
                 returned = StatusCode(StatusCodes.Status201Created, new { isSuccess = answer, Claims = claimsPrincipal.Claims.Select(c => new { c.Type, c.Value }) });
 
@@ -94,7 +87,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
             }
             catch (SecurityTokenException ex)
             {
-                return Unauthorized(new { IsValid = false, Message = ex.Message });
+                return Unauthorized(new { IsValid = false, ex.Message });
             }
 
             return returned;
@@ -107,10 +100,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
         {
             // Elimina cualquier cookie de autenticación
             HttpContext.SignOutAsync();
-
-            // Limpia cualquier otro estado necesario de la sesión o autenticación
-            //       HttpContext.Session.Clear();
-
+ 
             // Devuelve un mensaje de confirmación
             return Ok(new { message = "Sesión cerrada exitosamente." });
         }
@@ -120,19 +110,18 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         // PUT: api/Users/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        //[HttpPut("{id}")]
         [HttpPut("update/{id}")]
         public async Task<IActionResult> PutUser(int id, CreateUserInput user)
         {
-            if (id ==0  )  return BadRequest();
-                                                
+            if (id == 0) return BadRequest();
+
             try
             {
                 await _userAppServices.UpdateUser(id, user);
             }
-            catch ( Exception eex)
+            catch  
             {
-                 return NotFound();
+                return NotFound();
             }
 
 
@@ -141,7 +130,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
         // POST: api/Users
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
- 
+
         [HttpPost("create")]
         public async Task<ActionResult<UserDto>> PostUser(CreateUserInput user)
         {
@@ -153,16 +142,16 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
 
             try
             {
-                ret = await _userAppServices.CreateUser(  user);
+                ret = await _userAppServices.CreateUser(user);
             }
-            catch (Exception eex)
+            catch  
             {
                 return NotFound();
             }
 
             return Ok(ret);
-          
-                        
+
+
         }
 
 
@@ -195,7 +184,7 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
             }
         }
 
-       
+
 
 
 

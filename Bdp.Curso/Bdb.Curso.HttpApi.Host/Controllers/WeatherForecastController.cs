@@ -16,11 +16,11 @@ namespace Bdb.Curso.HttpApi.Host.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+     
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, TelemetryClient telemetryClient)
+        public WeatherForecastController(  TelemetryClient telemetryClient)
         {
-            _logger = logger;
+             
             _telemetryClient = telemetryClient;
         }
 
